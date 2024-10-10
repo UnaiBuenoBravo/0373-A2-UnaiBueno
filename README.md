@@ -13,7 +13,11 @@ El servidor responde a su solicitud *_enviando_* la página web a su equipo o di
 
 ## ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
 
-Respuesta. Enuméralos en una tabla que tenga dos columnas (Nombre, enlace a documentación)
+|Nombre | Enlace |
+|----------| :----------:
+|HTML | https://www.hostinger.es/tutoriales/que-es-html|
+|CSS |https://blog.hubspot.es/website/que-es-css|
+|JAVA |https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript|
 
 
 
