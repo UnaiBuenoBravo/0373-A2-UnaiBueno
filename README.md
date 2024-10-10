@@ -1,9 +1,9 @@
 # 0373-A2-UnaiBueno - A2 PuestaEnPractica (Documentación con Markdown)
-## * ¿Qué es una página web?
+## 1. ¿Qué es una página web?
 
 Una página web es un *espacio digital en línea* al que se puede acceder a través de internet y que muestra *contenido multimedia o interactivo* en un navegador web. Se integra con elementos de texto, imágenes, videos y otros recursos, los cuales se almacenan en servidores y que los usuarios pueden solicitarlos desde sus dispositivos.
 
-## * ¿Qué es un servidor web?
+## 2. ¿Qué es un servidor web?
 
 - Cada vez que visita un sitio web, está conectando con un servidor web para recuperar la página que desea ver. 
 - El servidor responde a su solicitud *_enviando_* la página web a su equipo o dispositivo antes de que pueda verla en su navegador (conocido como cliente web).
@@ -11,7 +11,7 @@ Una página web es un *espacio digital en línea* al que se puede acceder a trav
 - La mayoría de la gente imagina los servidores web como un hardware ubicado en un datacenter que funciona a través de solicitudes. En realidad, sí, el hardware físico del servidor web almacena y envía archivos a los clientes, pero necesita software para procesar cualquier solicitud e indicar al hardware qué datos deben enviarse al cliente.
 
 
-## ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
+## 3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?. 
 
 |Nombre | Enlace |
 |----------| :----------:
@@ -21,7 +21,7 @@ Una página web es un *espacio digital en línea* al que se puede acceder a trav
 
 
 
-## ¿Qué es HTML ? ¿Sabes cómo se estructura?
+## 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
 
 Respuesta.
 
@@ -29,12 +29,12 @@ Respuesta.
 Figura 1: Estructura de código HTML
 
 
-## ¿Qué es CSS?
+## 5. ¿Qué es CSS?
 
 Respuesta.
 
 
-## ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
+## 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
 
 Respuesta.
 
