@@ -15,7 +15,7 @@ Una página web es un *espacio digital en línea* al que se puede acceder a trav
 
 |Nombre | Enlace |
 |----------| :----------:
-|HTML | |[Pagina HTML](https://www.hostinger.es/tutoriales/que-es-html "Pagina HTML")|
+|HTML |[Pagina HTML](https://www.hostinger.es/tutoriales/que-es-html "Pagina HTML")|
 |CSS |[Pagina CSS](https://blog.hubspot.es/website/que-es-css "Pagina CSS")|
 |JAVA |[Pagina JAVA](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript "Pagina JAVA")|
 
@@ -31,12 +31,9 @@ Figura 1: Estructura de código HTML
 
 ## 5. ¿Qué es CSS?
 
-Respuesta.
-
 
 ## 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
 
-Respuesta.
 
 ![Foto_esquema](https://github.com/UnaiBuenoBravo/0373-A2-UnaiBueno/blob/main/Captura%20de%20pantalla%202024-10-10%20103155.png")
 
