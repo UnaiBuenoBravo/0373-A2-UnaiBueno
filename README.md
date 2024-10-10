@@ -15,9 +15,9 @@ Una página web es un *espacio digital en línea* al que se puede acceder a trav
 
 |Nombre | Enlace |
 |----------| :----------:
-|HTML | |[Página web de Jesuites Bellvitge](https://www.hostinger.es/tutoriales/que-es-html "Pagina HTML")|
-|CSS |[Página web de Jesuites Bellvitge](https://blog.hubspot.es/website/que-es-css "Pagina CSS")|
-|JAVA |[Página web de Jesuites Bellvitge](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript "Pagina JAVA")|
+|HTML | |[Pagina HTML](https://www.hostinger.es/tutoriales/que-es-html "Pagina HTML")|
+|CSS |[Pagina CSS](https://blog.hubspot.es/website/que-es-css "Pagina CSS")|
+|JAVA |[Pagina JAVA](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript "Pagina JAVA")|
 
 
 
@@ -38,7 +38,7 @@ Respuesta.
 
 Respuesta.
 
-![Foto_Esquema](https://github.com/UnaiBuenoBravo/0373-A2-UnaiBueno/blob/main/Captura%20de%20pantalla%202024-10-10%20103155.png")
+![Foto_esquema](https://github.com/UnaiBuenoBravo/0373-A2-UnaiBueno/blob/main/Captura%20de%20pantalla%202024-10-10%20103155.png")
 
 
 Figura 2: Esquema de peticiones HTML
